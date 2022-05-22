@@ -1,4 +1,4 @@
-## About Wholesale System
+## About Wholesale System (Developed in 2019-2020)
 
 Wholesale System is a web application that provide various management functions for wholesale operations as follows:  
 
@@ -13,7 +13,7 @@ Wholesale System is a web application that provide various management functions 
 
 The system provided with database migration script. The database schema is reusable.
 
-## Technology Used (Developed in 2019-2020)
+## Technology Used 
 
 - PHP 7.1.3
 - Laravel Framework 5.8.*
